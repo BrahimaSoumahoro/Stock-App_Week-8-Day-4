@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1  {
+  background-color: aqua;
+  color: red;
+}
+
+h2  {
+  background-color: aqua;
+  color: red;
+}
+
+footer  {
+  background-color: rgb(186, 143, 227);
+  display: flex;
+  position: relative;
+  flex-direction: row-reverse;
+  
+}
